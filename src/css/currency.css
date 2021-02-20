@@ -1,0 +1,49 @@
+.mainbody{
+    overflow: auto;
+}
+
+.firbody{
+    margin-top: 56px;
+    overflow: auto;
+}
+
+.secbody{
+    margin-left: 270px;
+}
+
+.ff{
+    overflow: hidden;
+    height: 100%;
+}
+
+.hello{
+    background-color: black;
+    height: 100%;
+    width: 270px;
+    min-width: 270px;
+    color: white;
+    overflow: auto;
+    float: left;
+}
+
+.inside-hello{
+    float: left;
+}
+
+.eiei{
+    width: 270px;
+    background-color: red;
+    height: 100%;
+    color: white;
+    overflow: auto;
+    float: left;
+}
+
+.hihi{
+    width: 270px;
+    background-color: blue;
+    color: white;
+    height: 100%;
+    overflow: auto;
+    float: left;
+}

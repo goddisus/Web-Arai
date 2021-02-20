@@ -1,0 +1,86 @@
+.mainbody{
+    overflow: auto;
+}
+
+.sidebar{
+    margin-top: 56px;
+    overflow: auto;
+}
+
+.bd{
+    border: 1px solid rgb(255, 255, 255);
+    background-color: #2b2b2b;
+    color: #adadad;
+}
+
+.headwh{
+    width: 160px;
+    height: 80px;
+    float: left;
+    text-align: center;
+}
+.headwh1{
+    width: 200px;
+    height: 80px;
+    float: left;
+    text-align: center;
+}
+
+.wh {
+    width: 200px;
+    float: left;
+}
+
+.wh1{
+    width: 160px;
+    float: left;
+    text-align: center;
+}
+
+.bar{
+    width: 83.8%;
+    border: 1px solid grey;
+    background-color: #1d1d1d;
+    color: #adadad;
+    padding: 20px;
+    margin-left: 270px;
+}
+
+.hhh{
+    width: 83.8%;
+    max-width: 100%;
+    text-align: right;
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    background-color: #2b2b2b;
+    color: #adadad;
+    padding: 20px;
+    margin-left: 270px;
+}
+
+.headerT{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bodyT{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.BodyTable{
+    margin: 20px;
+}
+
+.TTT{
+    margin: 20px;
+}
+
+.component{
+}
+
+.chart{
+}
+
+.history{
+}

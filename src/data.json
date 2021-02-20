@@ -1,0 +1,541 @@
+[{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac7f"
+  },
+  "name": "3M",
+  "lastestprice": "177.85",
+  "previouseprice": "176.80",
+  "low": "176.56",
+  "high": "177.96",
+  "nowpricediff": "1.05",
+  "nowperdiff": "0.59%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "4.95",
+  "threeperdiff": "2.85%",
+  "sixpricediff": "12.74",
+  "sixperdiff": "7.67%",
+  "yearpricediff": "17.79",
+  "yearperdiff": "11.05%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac80"
+  },
+  "name": "American Express",
+  "lastestprice": "126.75",
+  "previouseprice": "128.65",
+  "low": "126.09",
+  "high": "127.96",
+  "nowpricediff": "-1.90",
+  "nowperdiff": "-1.48%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "10.89",
+  "threeperdiff": "9.17%",
+  "sixpricediff": "29.13",
+  "sixperdiff": "28.99%",
+  "yearpricediff": "-6.25",
+  "yearperdiff": "-4.60%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac81"
+  },
+  "name": "Amgen",
+  "lastestprice": "233.46",
+  "previouseprice": "235.61",
+  "low": "232.65",
+  "high": "235.43",
+  "nowpricediff": "-2.15",
+  "nowperdiff": "-0.91%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "0.55",
+  "threeperdiff": "0.23%",
+  "sixpricediff": "-2.50",
+  "sixperdiff": "-1.04%",
+  "yearpricediff": "13.73",
+  "yearperdiff": "6.14%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac82"
+  },
+  "name": "Apple",
+  "lastestprice": "128.58",
+  "previouseprice": "130.84",
+  "low": "127.41",
+  "high": "129.68",
+  "nowpricediff": "-2.26",
+  "nowperdiff": "-1.73%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "15.07",
+  "threeperdiff": "12.53%",
+  "sixpricediff": "20.46",
+  "sixperdiff": "17.81%",
+  "yearpricediff": "54.13",
+  "yearperdiff": "66.63%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac83"
+  },
+  "name": "Boeing",
+  "lastestprice": "208.93",
+  "previouseprice": "215.37",
+  "low": "208.56",
+  "high": "214.27",
+  "nowpricediff": "-6.44",
+  "nowperdiff": "-2.99%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "8.47",
+  "threeperdiff": "4.18%",
+  "sixpricediff": "32.85",
+  "sixperdiff": "18.45%",
+  "yearpricediff": "-129.62",
+  "yearperdiff": "-38.06%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac84"
+  },
+  "name": "Caterpillar",
+  "lastestprice": "199.28",
+  "previouseprice": "202.26",
+  "low": "198.63",
+  "high": "202.88",
+  "nowpricediff": "-2.98",
+  "nowperdiff": "-1.47%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "24.83",
+  "threeperdiff": "14.34%",
+  "sixpricediff": "57.97",
+  "sixperdiff": "41.42%",
+  "yearpricediff": "59.91",
+  "yearperdiff": "43.41%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac85"
+  },
+  "name": "Chevron",
+  "lastestprice": "95.33",
+  "previouseprice": "95.99",
+  "low": "94.31",
+  "high": "96.17",
+  "nowpricediff": "-0.66",
+  "nowperdiff": "-0.69%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "3.63",
+  "threeperdiff": "4.08%",
+  "sixpricediff": "2.22",
+  "sixperdiff": "2.46%",
+  "yearpricediff": "-17.49",
+  "yearperdiff": "-15.89%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac86"
+  },
+  "name": "Cisco",
+  "lastestprice": "46.01",
+  "previouseprice": "46.25",
+  "low": "45.70",
+  "high": "46.35",
+  "nowpricediff": "-0.24",
+  "nowperdiff": "-0.52%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "4.75",
+  "threeperdiff": "11.17%",
+  "sixpricediff": "4.79",
+  "sixperdiff": "11.27%",
+  "yearpricediff": "0.32",
+  "yearperdiff": "0.68%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac87"
+  },
+  "name": "Coca-Cola",
+  "lastestprice": "50.35",
+  "previouseprice": "50.17",
+  "low": "50.03",
+  "high": "50.57",
+  "nowpricediff": "0.18",
+  "nowperdiff": "0.36%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "-3.24",
+  "threeperdiff": "-6.01%",
+  "sixpricediff": "2.24",
+  "sixperdiff": "4.61%",
+  "yearpricediff": "-9.27",
+  "yearperdiff": "-15.47%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac88"
+  },
+  "name": "Dow",
+  "lastestprice": "57.35",
+  "previouseprice": "58.65",
+  "low": "57.33",
+  "high": "58.67",
+  "nowpricediff": "-1.30",
+  "nowperdiff": "-2.22%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "4.29",
+  "threeperdiff": "7.96%",
+  "sixpricediff": "13.33",
+  "sixperdiff": "29.70%",
+  "yearpricediff": "9.60",
+  "yearperdiff": "19.75%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac89"
+  },
+  "name": "Goldman Sachs",
+  "lastestprice": "308.00",
+  "previouseprice": "312.55",
+  "low": "307.58",
+  "high": "314.50",
+  "nowpricediff": "-4.55",
+  "nowperdiff": "-1.46%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "83.80",
+  "threeperdiff": "37.69%",
+  "sixpricediff": "98.18",
+  "sixperdiff": "47.21%",
+  "yearpricediff": "69.08",
+  "yearperdiff": "29.14%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac8a"
+  },
+  "name": "Home Depot",
+  "lastestprice": "281.16",
+  "previouseprice": "281.24",
+  "low": "279.83",
+  "high": "284.65",
+  "nowpricediff": "-0.08",
+  "nowperdiff": "-0.03%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "-2.10",
+  "threeperdiff": "-0.75%",
+  "sixpricediff": "-2.70",
+  "sixperdiff": "-0.96%",
+  "yearpricediff": "32.80",
+  "yearperdiff": "13.39%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac8b"
+  },
+  "name": "Honeywell",
+  "lastestprice": "202.45",
+  "previouseprice": "202.01",
+  "low": "200.76",
+  "high": "202.83",
+  "nowpricediff": "0.44",
+  "nowperdiff": "0.22%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "-5.05",
+  "threeperdiff": "-2.42%",
+  "sixpricediff": "43.39",
+  "sixperdiff": "27.07%",
+  "yearpricediff": "22.87",
+  "yearperdiff": "12.65%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac8c"
+  },
+  "name": "IBM",
+  "lastestprice": "120.53",
+  "previouseprice": "120.01",
+  "low": "119.71",
+  "high": "120.60",
+  "nowpricediff": "0.52",
+  "nowperdiff": "0.43%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "2.29",
+  "threeperdiff": "1.93%",
+  "sixpricediff": "-4.57",
+  "sixperdiff": "-3.65%",
+  "yearpricediff": "-29.99",
+  "yearperdiff": "-19.90%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac8d"
+  },
+  "name": "Intel",
+  "lastestprice": "61.35",
+  "previouseprice": "61.85",
+  "low": "60.65",
+  "high": "61.98",
+  "nowpricediff": "-0.50",
+  "nowperdiff": "-0.81%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "15.62",
+  "threeperdiff": "33.82%",
+  "sixpricediff": "12.92",
+  "sixperdiff": "26.43%",
+  "yearpricediff": "-5.46",
+  "yearperdiff": "-8.12%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac8e"
+  },
+  "name": "Johnson & Johnson",
+  "lastestprice": "165.45",
+  "previouseprice": "165.62",
+  "low": "164.30",
+  "high": "166.16",
+  "nowpricediff": "-0.17",
+  "nowperdiff": "-0.10%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "15.62",
+  "threeperdiff": "10.35%",
+  "sixpricediff": "18.37",
+  "sixperdiff": "12.39%",
+  "yearpricediff": "16.48",
+  "yearperdiff": "10.98%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac8f"
+  },
+  "name": "JPMorgan Chase &",
+  "lastestprice": "143.67",
+  "previouseprice": "145.14",
+  "low": "143.40",
+  "high": "145.79",
+  "nowpricediff": "-1.47",
+  "nowperdiff": "-1.01%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "23.92",
+  "threeperdiff": "20.38%",
+  "sixpricediff": "38.91",
+  "sixperdiff": "38.00%",
+  "yearpricediff": "3.94",
+  "yearperdiff": "2.87%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac90"
+  },
+  "name": "McDonalds",
+  "lastestprice": "213.92",
+  "previouseprice": "213.48",
+  "low": "212.68",
+  "high": "214.49",
+  "nowpricediff": "0.44",
+  "nowperdiff": "0.20%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "-3.00",
+  "threeperdiff": "-1.38%",
+  "sixpricediff": "6.67",
+  "sixperdiff": "3.22%",
+  "yearpricediff": "-3.39",
+  "yearperdiff": "-1.56%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac91"
+  },
+  "name": "Merck",
+  "lastestprice": "75.37",
+  "previouseprice": "75.61",
+  "low": "75.05",
+  "high": "75.88",
+  "nowpricediff": "-0.24",
+  "nowperdiff": "-0.32%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "-5.15",
+  "threeperdiff": "-6.42%",
+  "sixpricediff": "-8.44",
+  "sixperdiff": "-10.11%",
+  "yearpricediff": "-7.61",
+  "yearperdiff": "-9.21%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac92"
+  },
+  "name": "Microsoft",
+  "lastestprice": "241.65",
+  "previouseprice": "244.20",
+  "low": "240.86",
+  "high": "242.44",
+  "nowpricediff": "-2.55",
+  "nowperdiff": "-1.04%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "27.76",
+  "threeperdiff": "12.78%",
+  "sixpricediff": "36.09",
+  "sixperdiff": "17.28%",
+  "yearpricediff": "59.64",
+  "yearperdiff": "32.18%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac93"
+  },
+  "name": "Nike",
+  "lastestprice": "143.16",
+  "previouseprice": "143.85",
+  "low": "141.21",
+  "high": "144.11",
+  "nowpricediff": "-0.69",
+  "nowperdiff": "-0.48%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "12.09",
+  "threeperdiff": "9.29%",
+  "sixpricediff": "35.79",
+  "sixperdiff": "33.63%",
+  "yearpricediff": "38.66",
+  "yearperdiff": "37.33%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac94"
+  },
+  "name": "Procter & Gamble",
+  "lastestprice": "129.12",
+  "previouseprice": "128.51",
+  "low": "127.60",
+  "high": "129.13",
+  "nowpricediff": "0.61",
+  "nowperdiff": "0.47%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "-14.82",
+  "threeperdiff": "-10.40%",
+  "sixpricediff": "-7.41",
+  "sixperdiff": "-5.49%",
+  "yearpricediff": "1.55",
+  "yearperdiff": "1.23%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac95"
+  },
+  "name": "Salesforce",
+  "lastestprice": "245.52",
+  "previouseprice": "247.62",
+  "low": "242.60",
+  "high": "246.00",
+  "nowpricediff": "-2.11",
+  "nowperdiff": "-0.85%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "-9.93",
+  "threeperdiff": "-3.97%",
+  "sixpricediff": "46.98",
+  "sixperdiff": "24.30%",
+  "yearpricediff": "50.46",
+  "yearperdiff": "26.58%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac96"
+  },
+  "name": "Travelers",
+  "lastestprice": "146.57",
+  "previouseprice": "148.36",
+  "low": "146.40",
+  "high": "148.09",
+  "nowpricediff": "-1.79",
+  "nowperdiff": "-1.21%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "9.67",
+  "threeperdiff": "7.10%",
+  "sixpricediff": "27.36",
+  "sixperdiff": "23.08%",
+  "yearpricediff": "8.12",
+  "yearperdiff": "5.89%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac97"
+  },
+  "name": "UnitedHealth",
+  "lastestprice": "328.08",
+  "previouseprice": "327.05",
+  "low": "325.30",
+  "high": "328.36",
+  "nowpricediff": "1.03",
+  "nowperdiff": "0.31%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "-28.90",
+  "threeperdiff": "-8.10%",
+  "sixpricediff": "4.23",
+  "sixperdiff": "1.31%",
+  "yearpricediff": "29.54",
+  "yearperdiff": "9.89%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac98"
+  },
+  "name": "Verizon",
+  "lastestprice": "56.93",
+  "previouseprice": "56.98",
+  "low": "56.53",
+  "high": "57.61",
+  "nowpricediff": "-0.06",
+  "nowperdiff": "-0.10%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "-6.68",
+  "threeperdiff": "-10.97%",
+  "sixpricediff": "-4.56",
+  "sixperdiff": "-7.76%",
+  "yearpricediff": "-4.26",
+  "yearperdiff": "-7.28%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac99"
+  },
+  "name": "Visa",
+  "lastestprice": "208.24",
+  "previouseprice": "207.48",
+  "low": "204.97",
+  "high": "208.27",
+  "nowpricediff": "0.76",
+  "nowperdiff": "0.36%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "-2.81",
+  "threeperdiff": "-1.32%",
+  "sixpricediff": "13.51",
+  "sixperdiff": "6.87%",
+  "yearpricediff": "-0.13",
+  "yearperdiff": "-0.06%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac9a"
+  },
+  "name": "Walgreens Boots Alliance",
+  "lastestprice": "49.00",
+  "previouseprice": "49.56",
+  "low": "48.49",
+  "high": "49.44",
+  "nowpricediff": "-0.56",
+  "nowperdiff": "-1.13%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "6.28",
+  "threeperdiff": "14.24%",
+  "sixpricediff": "8.47",
+  "sixperdiff": "20.21%",
+  "yearpricediff": "-2.47",
+  "yearperdiff": "-4.67%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac9b"
+  },
+  "name": "Walmart",
+  "lastestprice": "139.45",
+  "previouseprice": "147.25",
+  "low": "138.03",
+  "high": "140.70",
+  "nowpricediff": "-7.80",
+  "nowperdiff": "-5.30%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "-8.12",
+  "threeperdiff": "-5.32%",
+  "sixpricediff": "12.02",
+  "sixperdiff": "9.07%",
+  "yearpricediff": "26.64",
+  "yearperdiff": "22.59%"
+},{
+  "_id": {
+    "$oid": "602ea53939edb5d4243fac9c"
+  },
+  "name": "Walt Disney",
+  "lastestprice": "183.04",
+  "previouseprice": "186.54",
+  "low": "182.84",
+  "high": "185.66",
+  "nowpricediff": "-3.50",
+  "nowperdiff": "-1.88%",
+  "time": "12:34 PM 02/18/2021",
+  "threepricediff": "42.85",
+  "threeperdiff": "29.61%",
+  "sixpricediff": "57.01",
+  "sixperdiff": "43.67%",
+  "yearpricediff": "48.04",
+  "yearperdiff": "34.43%"
+}]
