@@ -14,16 +14,19 @@
 .ff{
     overflow: hidden;
     height: 100%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 .hello{
     background-color: black;
-    height: 100%;
+    text-align: center;
     width: 270px;
     min-width: 270px;
     color: white;
     overflow: auto;
-    float: left;
+    margin: auto;
 }
 
 .inside-hello{
@@ -33,17 +36,19 @@
 .eiei{
     width: 270px;
     background-color: red;
-    height: 100%;
     color: white;
+    text-align: center;
     overflow: auto;
-    float: left;
+    margin: auto;
+    padding: auto;
 }
 
 .hihi{
     width: 270px;
     background-color: blue;
     color: white;
-    height: 100%;
     overflow: auto;
-    float: left;
+    text-align: center;
+    margin: auto;
+    padding: auto;
 }
